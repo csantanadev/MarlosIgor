@@ -1,6 +1,7 @@
-### Olá! Eu Sou Marlos Igor
+### 👨‍💻 Bem Vindo Ao Meu 🌎
 
-- 🌱 Estudando Java 
+- 🖥️ Back-end Developer | Java | Python
+- 📕 Uninassau
 
 <div align="center">
   <a href="https://github.com/MarlosIgor">
