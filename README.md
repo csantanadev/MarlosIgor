@@ -1,4 +1,4 @@
-### Olá, eu sou Marlos Igor 👏🏻
+### Olá, sou Marlos Igor 👏🏻
 
 ### 🧑🏻‍💻 Bem Vindo ao meu GitHub
 - 🖥️ Back-end Developer | Java | Python
