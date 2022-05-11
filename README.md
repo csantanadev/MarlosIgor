@@ -16,7 +16,7 @@
   <img align="center" alt="PostgreSQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Spring" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="44" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
+  <img align="center" alt="GitHub" height="40" width="42" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
   <img align="right" alt="Foto" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761134b72320d985f2debb01c5c079d264301c127d41&rid=giphy.gif&ct=g">
 </div>
   
