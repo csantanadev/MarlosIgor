@@ -1,6 +1,6 @@
 ### Olá, eu sou Marlos Igor 👏🏻
-### 🧑🏻‍💻 Bem Vindo ao meu GitHub
 
+### 🧑🏻‍💻 Bem Vindo ao meu GitHub
 - 🖥️ Back-end Developer | Java | Python
 - 📕 Uninassau
 <div>
@@ -10,16 +10,14 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="right" alt="GitHub" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761134b72320d985f2debb01c5c079d264301c127d41&rid=giphy.gif&ct=g">
-  <a href="https://github.com/MarlosIgor">
-  <img height="150em" src="https://user-images.githubusercontent.com/18476294/167913739-46e74a1c-deeb-4fce-86ef-8685c6bcaa06.png"/>
+  <img align="center" alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="60" width="65" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
+  <img align="right" alt="Foto" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761134b72320d985f2debb01c5c079d264301c127d41&rid=giphy.gif&ct=g">
 </div>
   
   ##
