@@ -18,7 +18,7 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="right" alt="GitHub" src="https://c.tenor.com/Lzr7afFB7xUAAAAM/microsoft-hackathon-hackathon.gif">
+  <img align="right" alt="GitHub" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b761134b72320d985f2debb01c5c079d264301c127d41&rid=giphy.gif&ct=g">
 </div>
   
   ##
